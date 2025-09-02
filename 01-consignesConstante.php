@@ -11,6 +11,7 @@
  * 
  * Déclarer deux constantes LARGEUR et LONGUEUR avec des valeurs numériques puis calculer l'aire d'un rectangle en utilisant ces constantes et afficher le résultat
  * 
+ * 
  * ! stocker le résultat du calcul avant de l'afficher
  */
 
