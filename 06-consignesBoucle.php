@@ -22,12 +22,15 @@
  * 
  */
 
+
+
 /** Exercice 4 : foreach pour un tableau associatif
  * 
  *  Objectif : Créer un tableau associatif avec les informations suivantes : 'prenom','nom','email','age'
  *             Afficher chaque information sous la forme clé : valeur dans des paragraphes, l'email doit être dans un lien (<a>)
  * 
  */
+
 
 /** Exercice 5 : Boucles imbriquées et conditions
  * 
@@ -36,6 +39,7 @@
  *  Mettre un background vert sur les cellules contenant un nombre pair
  * 
  */
+
 
 /** Exercice 6 : Tableau de tableaux
  * 
@@ -48,10 +52,12 @@
  *  <ol> 
  *  <li> Personne 1 </li>
  *  <ul> 
- *  <li> prénom : prenom </li>
- *  <li> nom : nom </li>
- *  <li> age: age </li>
+ *      <li> prénom : prenom </li>
+ *      <li> nom : nom </li>
+ *      <li> age: age </li>
  *  </ul>
  *  <li> Personne 2 </li>
- * 
+ * ...
+ * </ol>
  */
+
