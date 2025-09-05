@@ -20,6 +20,8 @@ Exercice : Créez une fonction appelée greetUser() qui prend un paramètre $nam
 Exercice : Créez une fonction appelée sum() qui prend deux paramètres $a et $b, les additionne, et retourne le résultat.
 */
 
+
+
 /*
 4. Fonction avec paramètre par défaut
 Exercice : Créez une fonction appelée greetWithTime() qui prend deux paramètres, un nom $name et un moment de la journée $timeOfDay (par défaut "day"), et qui affiche "Good [timeOfDay], [name]!
@@ -27,6 +29,7 @@ Exercice : Créez une fonction appelée greetWithTime() qui prend deux paramètr
 Rappel = vous pouvez ajouter une valeur au paramètre de fonction directement comme on a vu (exemple : function salut($name='Cynthia'){echo "Salut $name";})
 ".
 */
+
 
 /*
 5. Fonction avec une condition complexe
